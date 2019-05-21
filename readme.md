@@ -2,7 +2,7 @@
 
 This is a tool for studying the block propagation patterns of blocks on the Bitcoin network.
 
-Built for my [masters thesis](https://bitcoin.aapelivuorinen.com/).
+This was built for my masters thesis, which has a [website here](https://bitcoin.aapelivuorinen.com/). For an overview on this tool, read [Chapter 3](https://bitcoin.aapelivuorinen.com/thesis.pdf#chapter.3).
 
 ## Installation
 
